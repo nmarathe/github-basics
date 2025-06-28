@@ -1,3 +1,14 @@
+=======================
+        Foods
+=======================    
 1. Puran Poli
 2. Gulab Jamun
 3. Kartule Bhaji
+=======================
+        Movies
+=======================
+1. Saving Private Ryan
+2. Inception
+3. Bridge on the River Kwai
+4. Once Upon a Time in West
+5. Khosla ka Ghosla
